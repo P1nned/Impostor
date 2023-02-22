@@ -1,0 +1,91 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Cinematics (With HUD)",
+						"5",
+						"70"
+					]
+				]
+			],
+			[
+				103764.705882353,
+				[
+					[
+						"fadein",
+						"bygonepainting",
+						"5"
+					]
+				]
+			],
+			[
+				110823.529411765,
+				[
+					[
+						"Change Character",
+						"bf",
+						"CC3"
+					]
+				]
+			],
+			[
+				110830.882352941,
+				[
+					[
+						"BF Fade",
+						"0.0001",
+						"0"
+					]
+				]
+			],
+			[
+				111529.411764706,
+				[
+					[
+						"fadeout",
+						"bygonepainting",
+						"10"
+					],
+					[
+						"fadein",
+						"city",
+						"10"
+					],
+					[
+						"fadein",
+						"michael walking",
+						"10"
+					],
+					[
+						"fadeout",
+						"bygonestage",
+						"10"
+					],
+					[
+						"fadeout",
+						"bygonestage2",
+						"10"
+					],
+					[
+						"BF Fade",
+						"0.01",
+						"0"
+					]
+				]
+			],
+			[
+				124235.294117647,
+				[
+					[
+						"BF Fade",
+						"2.5",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}
