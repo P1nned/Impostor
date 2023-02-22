@@ -1,3 +1,4 @@
+mods/data/monochrome/events.json
 mods/data/monochrome/monochrome-easy.json
 mods/data/monochrome/monochrome-hard.json
 mods/data/monochrome/monochrome.json

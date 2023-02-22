@@ -1,0 +1,6 @@
+mods/data/brimstone/brimstone.json
+mods/data/brimstone/events.json
+mods/songs/brimstone/Voices.ogg
+mods/songs/brimstone/Inst.ogg
+mods/songs/brimstone/voices.ogg
+mods/songs/brimstone/inst.ogg

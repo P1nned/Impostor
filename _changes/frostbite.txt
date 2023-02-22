@@ -1,0 +1,6 @@
+mods/data/frostbite/events.json
+mods/data/frostbite/frostbite.json
+mods/songs/frostbite/Voices.ogg
+mods/songs/frostbite/Inst.ogg
+mods/songs/frostbite/voices.ogg
+mods/songs/frostbite/inst.ogg

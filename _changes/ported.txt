@@ -1,0 +1,5 @@
+mods/data/ported/ported-hard.json
+mods/songs/ported/Voices.ogg
+mods/songs/ported/Inst.ogg
+mods/songs/ported/voices.ogg
+mods/songs/ported/inst.ogg
