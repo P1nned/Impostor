@@ -1,0 +1,6 @@
+mods/data/armed/armed-hard.json
+mods/data/armed/events.json
+mods/songs/armed/Voices.ogg
+mods/songs/armed/Inst.ogg
+mods/songs/armed/voices.ogg
+mods/songs/armed/inst.ogg

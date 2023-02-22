@@ -1,0 +1,6 @@
+mods/data/reactor/events.json
+mods/data/reactor/reactor-hard.json
+mods/songs/reactor/Voices.ogg
+mods/songs/reactor/Inst.ogg
+mods/songs/reactor/voices.ogg
+mods/songs/reactor/inst.ogg

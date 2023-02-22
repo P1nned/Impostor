@@ -1,0 +1,8 @@
+mods/data/compromised-persona/compromised-persona-easy.json
+mods/data/compromised-persona/compromised-persona-hard.json
+mods/data/compromised-persona/compromised-persona.json
+mods/data/compromised-persona/events.json
+mods/songs/compromised-persona/Voices.ogg
+mods/songs/compromised-persona/Inst.ogg
+mods/songs/compromised-persona/voices.ogg
+mods/songs/compromised-persona/inst.ogg

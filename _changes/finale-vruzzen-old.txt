@@ -1,0 +1,6 @@
+mods/data/finale-vruzzen-old/events.json
+mods/data/finale-vruzzen-old/finale-vruzzen-old-hard.json
+mods/songs/finale-vruzzen-old/Voices.ogg
+mods/songs/finale-vruzzen-old/Inst.ogg
+mods/songs/finale-vruzzen-old/voices.ogg
+mods/songs/finale-vruzzen-old/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/voting-time/events.json
+mods/data/voting-time/voting-time-hard.json
+mods/data/voting-time/voting-time-other.json
+mods/songs/voting-time/Voices.ogg
+mods/songs/voting-time/Inst.ogg
+mods/songs/voting-time/voices.ogg
+mods/songs/voting-time/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/alpha-moogus/alpha-moogus-hard.json
+mods/songs/alpha-moogus/Voices.ogg
+mods/songs/alpha-moogus/Inst.ogg
+mods/songs/alpha-moogus/voices.ogg
+mods/songs/alpha-moogus/inst.ogg

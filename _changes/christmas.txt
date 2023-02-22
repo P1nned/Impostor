@@ -1,0 +1,6 @@
+mods/data/christmas/christmas-hard.json
+mods/data/christmas/christmas.json
+mods/songs/christmas/Voices.ogg
+mods/songs/christmas/Inst.ogg
+mods/songs/christmas/voices.ogg
+mods/songs/christmas/inst.ogg

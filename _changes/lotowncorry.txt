@@ -1,0 +1,5 @@
+mods/data/lotowncorry/lotowncorry-hard.json
+mods/songs/lotowncorry/Voices.ogg
+mods/songs/lotowncorry/Inst.ogg
+mods/songs/lotowncorry/voices.ogg
+mods/songs/lotowncorry/inst.ogg

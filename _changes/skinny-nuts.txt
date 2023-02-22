@@ -1,0 +1,7 @@
+mods/data/skinny-nuts/skinny-nuts-easy.json
+mods/data/skinny-nuts/skinny-nuts-hard.json
+mods/data/skinny-nuts/skinny-nuts.json
+mods/songs/skinny-nuts/Voices.ogg
+mods/songs/skinny-nuts/Inst.ogg
+mods/songs/skinny-nuts/voices.ogg
+mods/songs/skinny-nuts/inst.ogg

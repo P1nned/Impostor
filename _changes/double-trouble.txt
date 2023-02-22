@@ -1,0 +1,6 @@
+mods/data/double-trouble/double-trouble-hard.json
+mods/data/double-trouble/events.json
+mods/songs/double-trouble/Voices.ogg
+mods/songs/double-trouble/Inst.ogg
+mods/songs/double-trouble/voices.ogg
+mods/songs/double-trouble/inst.ogg

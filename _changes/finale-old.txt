@@ -1,0 +1,6 @@
+mods/data/finale-old/finale-old-hard.json
+mods/data/finale-old/finale-old.json
+mods/songs/finale-old/Voices.ogg
+mods/songs/finale-old/Inst.ogg
+mods/songs/finale-old/voices.ogg
+mods/songs/finale-old/inst.ogg

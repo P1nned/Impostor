@@ -1,0 +1,6 @@
+mods/data/magmatic/events.json
+mods/data/magmatic/magmatic-hard.json
+mods/songs/magmatic/Voices.ogg
+mods/songs/magmatic/Inst.ogg
+mods/songs/magmatic/voices.ogg
+mods/songs/magmatic/inst.ogg

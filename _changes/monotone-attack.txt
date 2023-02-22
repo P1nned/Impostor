@@ -1,0 +1,7 @@
+mods/data/monotone-attack/events.json
+mods/data/monotone-attack/monotone-attack-hard.json
+mods/data/monotone-attack/monotone-attack-other.json
+mods/songs/monotone-attack/Voices.ogg
+mods/songs/monotone-attack/Inst.ogg
+mods/songs/monotone-attack/voices.ogg
+mods/songs/monotone-attack/inst.ogg

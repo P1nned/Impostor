@@ -1,0 +1,5 @@
+mods/data/spookpostor/spookpostor-hard.json
+mods/songs/spookpostor/Voices.ogg
+mods/songs/spookpostor/Inst.ogg
+mods/songs/spookpostor/voices.ogg
+mods/songs/spookpostor/inst.ogg

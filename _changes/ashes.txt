@@ -1,0 +1,5 @@
+mods/data/ashes/ashes-hard.json
+mods/songs/ashes/Voices.ogg
+mods/songs/ashes/Inst.ogg
+mods/songs/ashes/voices.ogg
+mods/songs/ashes/inst.ogg

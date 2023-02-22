@@ -1,0 +1,5 @@
+mods/data/pretender/pretender-hard.json
+mods/songs/pretender/Voices.ogg
+mods/songs/pretender/Inst.ogg
+mods/songs/pretender/voices.ogg
+mods/songs/pretender/inst.ogg

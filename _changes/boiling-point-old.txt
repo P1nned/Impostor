@@ -1,0 +1,5 @@
+mods/data/boiling-point-old/boiling-point-old-hard.json
+mods/songs/boiling-point-old/Voices.ogg
+mods/songs/boiling-point-old/Inst.ogg
+mods/songs/boiling-point-old/voices.ogg
+mods/songs/boiling-point-old/inst.ogg

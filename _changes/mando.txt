@@ -1,0 +1,5 @@
+mods/data/mando/mando-hard.json
+mods/songs/mando/Voices.ogg
+mods/songs/mando/Inst.ogg
+mods/songs/mando/voices.ogg
+mods/songs/mando/inst.ogg

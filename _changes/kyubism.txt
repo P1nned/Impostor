@@ -1,0 +1,6 @@
+mods/data/kyubism/kyubism-hard.json
+mods/data/kyubism/kyubism.json
+mods/songs/kyubism/Voices.ogg
+mods/songs/kyubism/Inst.ogg
+mods/songs/kyubism/voices.ogg
+mods/songs/kyubism/inst.ogg

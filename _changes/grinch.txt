@@ -1,0 +1,5 @@
+mods/data/grinch/grinch-hard.json
+mods/songs/grinch/Voices.ogg
+mods/songs/grinch/Inst.ogg
+mods/songs/grinch/voices.ogg
+mods/songs/grinch/inst.ogg

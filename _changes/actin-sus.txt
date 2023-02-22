@@ -1,0 +1,5 @@
+mods/data/actin-sus/actin-sus-hard.json
+mods/songs/actin-sus/Voices.ogg
+mods/songs/actin-sus/Inst.ogg
+mods/songs/actin-sus/voices.ogg
+mods/songs/actin-sus/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/oversight-hotfix/events.json
+mods/data/oversight-hotfix/oversight-hotfix-hard.json
+mods/songs/oversight-hotfix/Voices.ogg
+mods/songs/oversight-hotfix/Inst.ogg
+mods/songs/oversight-hotfix/voices.ogg
+mods/songs/oversight-hotfix/inst.ogg

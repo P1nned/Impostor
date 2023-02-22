@@ -1,0 +1,6 @@
+mods/data/sussus-toogus/events.json
+mods/data/sussus-toogus/sussus-toogus-hard.json
+mods/songs/sussus-toogus/Voices.ogg
+mods/songs/sussus-toogus/Inst.ogg
+mods/songs/sussus-toogus/voices.ogg
+mods/songs/sussus-toogus/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/top-10/top-10-hard.json
+mods/songs/top-10/Voices.ogg
+mods/songs/top-10/Inst.ogg
+mods/songs/top-10/voices.ogg
+mods/songs/top-10/inst.ogg

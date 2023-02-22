@@ -1,0 +1,6 @@
+mods/data/victory-old/events.json
+mods/data/victory-old/victory-old-hard.json
+mods/songs/victory-old/Voices.ogg
+mods/songs/victory-old/Inst.ogg
+mods/songs/victory-old/voices.ogg
+mods/songs/victory-old/inst.ogg

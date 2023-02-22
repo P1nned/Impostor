@@ -1,0 +1,6 @@
+mods/data/dlow/dlow-hard.json
+mods/data/dlow/events.json
+mods/songs/dlow/Voices.ogg
+mods/songs/dlow/Inst.ogg
+mods/songs/dlow/voices.ogg
+mods/songs/dlow/inst.ogg

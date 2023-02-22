@@ -1,0 +1,5 @@
+mods/data/mando-hotfix/mando-hotfix-hard.json
+mods/songs/mando-hotfix/Voices.ogg
+mods/songs/mando-hotfix/Inst.ogg
+mods/songs/mando-hotfix/voices.ogg
+mods/songs/mando-hotfix/inst.ogg

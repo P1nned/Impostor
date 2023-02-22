@@ -1,0 +1,7 @@
+mods/data/danger-hotfix/danger-hotfix-hard.json
+mods/data/danger-hotfix/danger.json
+mods/data/danger-hotfix/events.json
+mods/songs/danger-hotfix/Voices.ogg
+mods/songs/danger-hotfix/Inst.ogg
+mods/songs/danger-hotfix/voices.ogg
+mods/songs/danger-hotfix/inst.ogg

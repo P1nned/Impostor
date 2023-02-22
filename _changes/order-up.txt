@@ -1,0 +1,7 @@
+mods/data/order-up/order-up-easy.json
+mods/data/order-up/order-up-hard.json
+mods/data/order-up/order-up.json
+mods/songs/order-up/Voices.ogg
+mods/songs/order-up/Inst.ogg
+mods/songs/order-up/voices.ogg
+mods/songs/order-up/inst.ogg

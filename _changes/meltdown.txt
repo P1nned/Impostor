@@ -1,0 +1,6 @@
+mods/data/meltdown/events.json
+mods/data/meltdown/meltdown-hard.json
+mods/songs/meltdown/Voices.ogg
+mods/songs/meltdown/Inst.ogg
+mods/songs/meltdown/voices.ogg
+mods/songs/meltdown/inst.ogg
