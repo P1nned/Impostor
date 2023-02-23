@@ -1,0 +1,5 @@
+mods/data/omnipresent-noichi-remix/omnipresent-noichi-remix-encore.json
+mods/songs/omnipresent-noichi-remix/Voices.ogg
+mods/songs/omnipresent-noichi-remix/Inst.ogg
+mods/songs/omnipresent-noichi-remix/voices.ogg
+mods/songs/omnipresent-noichi-remix/inst.ogg
